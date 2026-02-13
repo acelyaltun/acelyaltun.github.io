@@ -35,6 +35,7 @@ and environmental issues. Ultimately, this thesis aims to provide more insight i
 targeted protest repression and threat perceptions in non-democratic regimes.]
 </p>
 </details>
-<a href="/files/Altun_MA_Thesis.pdf" style="background-color: #6a1b9a; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px; display: inline-block; margin-top: 10px;">📄 Download Thesis (PDF)</a>
+<a href="/files/Altun_MA_Thesis.pdf" style="background-color: white; color: #6a1b9a; padding: 8px 16px; text-decoration: none; border: 2px solid #6a1b9a; border-radius: 4px; display: inline-block; margin-top: 10px;">📄 Download Thesis</a>
+
 
 
