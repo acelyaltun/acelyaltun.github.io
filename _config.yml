@@ -20,15 +20,8 @@ author:
   avatar: "profile.jpg"
   bio: "PhD Student in Political Science"
   location: "Seattle, WA"
+  employer: "University of Washington"  # ADD THIS LINE
   email: "altun@uw.edu"
-  links:
-    - label: "University of Washington"
-      icon: "fas fa-fw fa-university"
-      url: "https://www.polisci.washington.edu/"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:altun@uw.edu"
-  linkedin: "www.linkedin.com/in/acelyaltun"
 
 # Publication Category
 publication_category:
