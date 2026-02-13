@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Click Here for my CV)](/files/CV_Altun.pdf)
+[Click Here for my CV](/files/CV_Altun.pdf)
