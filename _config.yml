@@ -22,15 +22,18 @@ repository               : "acelyaltun/acelyaltun.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
-  avatar           : "profile.png"
-  name             : "Açelya Altun"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Seattle, WA"
-  employer         : "University of Washington"
-  uri              : # URL
-  email            : "altun@uw.edu" 
+  name: "Açelya Altun"
+  avatar: "profile.jpeg"
+  bio: "PhD Student in Political Science"
+  location: "Seattle, WA"
+  email: "altun@uw.edu"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:altun@uw.edu"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://acelyaltun.github.io"
 
   # Academic websites
   academia         : # URL
