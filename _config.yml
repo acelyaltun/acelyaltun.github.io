@@ -23,7 +23,7 @@ repository               : "acelyaltun/acelyaltun.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   name: "Açelya Altun"
-  avatar: "profile.jpeg"
+  avatar: "profile.jpg"
   bio: "PhD Student in Political Science"
   location: "Seattle, WA"
   email: "altun@uw.edu"
