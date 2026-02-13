@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "contrast" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "dirt" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Açelya Altun"
 title_separator          : "-"
 name                     : &name "Açelya Altun"
@@ -22,7 +22,7 @@ repository               : "acelyaltun/acelyaltun.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  name             : "Açelya Altun"
+  name             : "Acelya Altun"
   avatar           : "profile.jpg"
   bio              : "PhD Student in Political Science"
   location         : "Seattle, WA"
