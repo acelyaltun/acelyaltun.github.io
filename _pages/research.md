@@ -16,7 +16,7 @@ In 2025, I completed my M.A. thesis titled "The Determinants of Civic Space Crac
 <details>
 <summary style="color: #6a1b9a; cursor: pointer;"><b>Abstract</b></summary>
 <p style="padding-top: 10px;">
-[This thesis examines the effect of threat perception on protest repression by focusing
+This thesis examines the effect of threat perception on protest repression by focusing
 on protest and repression dynamics in Turkey during democratic backsliding.
 Questioning when and against whom protest repression is more intense, it seeks
 to understand the determinants of state response to dissent. However, traditional
@@ -32,7 +32,7 @@ various issue types, I employ multinomial logistic regression. Results show that
 intensity of protest repression increases with the perceived threat. Further, mobilization
 becomes more threatening to the regime when it is challenged by labor
 and environmental issues. Ultimately, this thesis aims to provide more insight into
-targeted protest repression and threat perceptions in non-democratic regimes.]
+targeted protest repression and threat perceptions in non-democratic regimes.
 </p>
 </details>
 <a href="/files/Altun_MA_Thesis.pdf" style="background-color: white; color: #6a1b9a; padding: 8px 16px; text-decoration: none; border: 2px solid #6a1b9a; border-radius: 4px; display: inline-block; margin-top: 10px;">📄 Download Thesis</a>
