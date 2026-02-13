@@ -12,8 +12,10 @@ author_profile: true
 
 ## Master's Thesis
 In 2025, I completed my M.A. thesis titled "The Determinants of Civic Space Crackdowns: Evidence from Human Rights Reports" in the Political Science department at Sabanci University, advised by Assist. Prof. Fatih Serkant Adiguzel.
-<summary><b>Abstract</b></summary>
-<p>
+
+<details>
+<summary style="color: #6a1b9a; cursor: pointer;"><b>Abstract</b></summary>
+<p style="padding-top: 10px;">
 [This thesis examines the effect of threat perception on protest repression by focusing
 on protest and repression dynamics in Turkey during democratic backsliding.
 Questioning when and against whom protest repression is more intense, it seeks
