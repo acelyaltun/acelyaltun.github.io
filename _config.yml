@@ -28,7 +28,7 @@ author:
   location: "Seattle, WA"
   email: "altun@uw.edu"
   links:
-  - label: "University of Washington"
+    - label: "University of Washington"
       icon: "fas fa-fw fa-university"
       url: "https://www.polisci.washington.edu/"
     - label: "Email"
