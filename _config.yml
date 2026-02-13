@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Açelya Altun"
 title_separator          : "-"
 name                     : &name "Açelya Altun"
@@ -28,6 +28,9 @@ author:
   location: "Seattle, WA"
   email: "altun@uw.edu"
   links:
+  - label: "University of Washington"
+      icon: "fas fa-fw fa-university"
+      url: "https://www.polisci.washington.edu/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:altun@uw.edu"
