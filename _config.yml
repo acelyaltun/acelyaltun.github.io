@@ -5,7 +5,7 @@
 
 # Basic Site Settings
 locale: "en-US"
-site_theme: "mint"
+site_theme: "dirt"
 title: "Acelya Altun"
 title_separator: "-"
 name: &name "Acelya Altun"
