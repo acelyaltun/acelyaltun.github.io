@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Political Science at the University of Washington, where my research focuses on repression, violence, and autocratization in comparative politics. My current work rethinks how we measure and understand autocrats' repertoires of repression.
+I am a PhD student in Political Science at the University of Washington, where my research focuses on repression, violence, and autocratization in comparative politics. My current work rethinks how we measure and understand autocrats' repertoires of repression. 
 
 Before joining UW, I earned my MA in Political Science from Sabancı University (2025) and my BA in Political Science and International Relations from Boğaziçi University (2023). I have worked as a research assistant on projects examining protest dynamics, generational attitudes, and late Ottoman media.
 
