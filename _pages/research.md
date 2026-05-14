@@ -7,7 +7,9 @@ author_profile: true
 
 ## Working Papers
 
-**Tracing Autocrats: Rethinking Repertoire of Repression and Measurement**
+**Fig Gardens in Syria: Legacies of Repression on Dissent and Insurgency**
+
+**Tracing Autocrats: Rethinking Repertoire of Repression and Threat Perceptions**
 - Ione E. Curtis Graduate Research Grant (2026-2027), University of Washington
 
 ## Master's Thesis
