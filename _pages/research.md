@@ -7,10 +7,10 @@ author_profile: true
 
 ## Working Papers
 
-**Fig Gardens in Syria: Legacies of Repression on Dissent and Insurgency**
-
 **Tracing Autocrats: Rethinking Repertoire of Repression and Measurement**
 - Ione E. Curtis Graduate Research Grant (2026-2027), University of Washington
+
+**Fig Gardens in Syria: Legacies of Repression on Dissent and Insurgency**
 
 ## Master's Thesis
 In 2025, I completed my M.A. thesis titled "The Determinants of Civic Space Crackdowns: Evidence from Human Rights Reports" in the Political Science department at Sabanci University, advised by Assist. Prof. Fatih Serkant Adiguzel.
