@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-<a href="/files/CV_Altun.pdf" style="background-color: white; color: #1f5f70; padding: 8px 16px; text-decoration: none; border: 2px solid #1f5f70; border-radius: 4px; display: inline-block; margin-bottom: 20px;">📄 Click here for my CV</a>
+<a href="/files/CV_Altun.pdf" style="background-color: #e6f2f5; color: #1f5f70; border: 1px solid #c3dde4; border-radius: 999px; padding: 7px 18px; text-decoration: none; font-weight: 600; display: inline-block; margin-bottom: 20px;">📄 Click here for my CV</a>
 
