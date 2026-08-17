@@ -6,9 +6,9 @@
 # Basic Site Settings
 locale: "en-US"
 site_theme: "default"
-title: "Acelya Altun"
+title: "Açelya Altun"
 title_separator: "-"
-name: &name "Acelya Altun"
+name: &name "Açelya Altun"
 description: &description "PhD Student in Political Science"
 url: https://acelyaltun.github.io
 baseurl: ""
@@ -16,7 +16,7 @@ repository: "acelyaltun/acelyaltun.github.io"
 
 # Site Author
 author:
-  name: "Acelya Altun"
+  name: "Açelya Altun"
   avatar: "profile.jpeg"
   bio: "PhD Student in Political Science"
   location: "Seattle, WA"
