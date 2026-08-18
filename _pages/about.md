@@ -11,4 +11,4 @@ Hi! I am a PhD student in Political Science at the University of Washington, Sea
 
 My main research interests involve comparative politics and political methodology. I am interested in repression, violence, and autocratization with a focus on historical legacies and quantitative methods. My current work rethinks how we measure and understand autocrats' repertoires of repression. 
 
-Outside of research and being a cat mom, I spend my time lifting unnecessarily heavy iron objects, watching films that are far too sad, and staring at maps for longer than is reasonable.
+Outside of research and being a cat mom, I spend my time weight lifting, watching films that are far too sad, and staring at maps. 
