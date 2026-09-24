@@ -14,7 +14,7 @@ Instructor: Prof. Asli Cansunar
 
 **POL S 204: Introduction to Comparative Politics**  
 Instructor: Prof. Asli Cansunar  
-*Autumn 2025*
+*Autumn 2025, Autumn 2026*
 
 
 ## Teaching Assistant, Sabancı University
